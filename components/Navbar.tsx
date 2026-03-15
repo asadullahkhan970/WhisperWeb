@@ -43,7 +43,7 @@ const Navbar = () => {
 }
 
 export default Navbar
-=======
+
 import Image from 'next/image'
 import Link from 'next/link'
 
